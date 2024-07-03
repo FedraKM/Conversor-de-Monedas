@@ -11,4 +11,4 @@ Este proyecto es un Conversor de Monedas que permite a los usuarios convertir en
 - **ExchangeRate-API**: API utilizada para obtener las tasas de cambio.
 - **Gson**: Biblioteca para manejar la conversión de JSON a objetos Java.
 ## Autores
-- **Fedra Macario** - *Desarrollador principal* - ![](https://github.com/FedraKM)
+- **Fedra Macario** - *Desarrollador principal* 
